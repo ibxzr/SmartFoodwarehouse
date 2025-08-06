@@ -1,8 +1,8 @@
 # SmartFoodwarehouse
 Automated robot system to convert a food warehouse into a fully automated storage and retrieval system
-# Automated Food Warehouse Robot Project
+# 🤖 Automated Food Warehouse Robot Project 🏭
 
-## 1. Algorithm for Implementation
+## 1. Algorithm for Implementation 📝
 
 1. Initialize the robot system and establish connection with warehouse management software.  
 2. Receive commands to store or retrieve food items.  
@@ -22,7 +22,7 @@ Automated robot system to convert a food warehouse into a fully automated storag
 7. Return robot to standby position and wait for next command.  
 8. Shutdown system safely upon request.
 
-## 2. Robot Design
+## 2. Robot Design 🤖
 
 - Mobile base: Wheeled platform for navigation inside the warehouse.  
 - Robotic arm: At least 4 degrees of freedom for precise picking and placing of items.  
@@ -33,7 +33,7 @@ Automated robot system to convert a food warehouse into a fully automated storag
 - Navigation system: Indoor localization with maps or markers to guide robot efficiently.  
 - Communication: Wireless connection to warehouse management system (Wi-Fi or Bluetooth).
 
-## 3. Working Envelope Elements
+## 3. Working Envelope Elements 📐
 
 - Warehouse dimensions: Length, width, and height of the storage area.  
 - Robot mobility range: Maximum distance and turning radius of the mobile base.  
